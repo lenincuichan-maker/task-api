@@ -21,4 +21,17 @@ task-api/
 ├── tests/
 ├── README.md
 └── requirements.txt
-````
+```
+## Equipo de trabajo
+integrantes:
+- Lenin Cuichan
+- Juan pablo andagoya
+## Convención de commits
+El equipo utilizará mensajes de commit con el siguiente formato:
+- feat: nueva funcionalidad
+- fix: corrección de errores
+- docs: cambios en documentación
+- refactor: mejora interna del código
+- test: pruebas
+- chore: tareas de configuración
+
